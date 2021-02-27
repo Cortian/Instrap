@@ -1,0 +1,120 @@
+*{
+	padding:0px;
+	margin:0px;
+	font-family: sans-serif;
+}
+body{
+	background: #ffffff;
+}
+nav{
+	background: linear-gradient(to right,#B93F82,#DA5949);
+	padding:5px;
+}
+nav h2{
+	font-weight: 500;
+	font-size: 25px;
+	color:white;
+	margin:5px;
+}
+nav p{
+	color:white;
+	font-size: 13px;
+	margin:5px;
+}
+nav a{
+	float:right;
+	margin-top:-42px;
+	margin-right:10px;
+	text-decoration:none;
+	color:#f1f1f1;
+	border: 1px solid #f1f1f1;
+	border-radius: 2px;
+	padding:3px;
+	width:10%;
+	text-align:center;
+
+}
+.container{
+	background: none;
+	max-width: 80%;
+	margin:auto;
+	padding:10px;
+	text-align: center;
+}
+form{
+	background: none;
+	max-width: 100%;
+	width:40%;
+	padding:10px;
+	margin:10px auto;
+	border:1px solid #dddddd;
+	border-radius: 3px;
+	box-sizing: border-box;
+
+
+}
+form h4{
+	margin:10px;
+	padding: 5px;
+	font-weight: 300;
+	font-size: 20px;
+	color: #4c4c4c;
+
+}
+form p{
+	padding: 0px;
+	font-weight: 300;
+	font-size: 13px;
+	color: #000000;
+	margin-right:50px;
+
+
+
+}
+
+form input{
+	padding:8px;
+	margin:5px;
+	outline: none;
+	border:none;
+	border-radius: 2px;
+	border: 1px solid #e6e6e6;
+	background: #FAFAFA;
+
+}
+form button{
+	padding:7px;
+	width:45%;
+	margin:10px;
+	background: #0195E7;
+	border:none;
+	border-radius:2px;
+	color:white;
+	font-size: 15px;
+	outline: none;
+}
+
+@media screen and (max-width: 700px) {
+	form{
+		width:100%;
+		}
+	nav h2{
+		font-size:20px;
+	}
+	nav p{
+		font-size:11px;
+	}
+	nav a{
+		margin-top:-39px;
+	}
+	form input{
+		padding:10px;
+	}
+	form p{
+		margin-right:70px;
+	}
+	form button{
+		width:75%;
+
+	}
+}
