@@ -11,7 +11,7 @@ This tool creates fake instagram fake and asks users to login with their Instagr
 #  INSTALLATION
 
 ```bash
-git clone https://github.com/Cortian/Instrap
+git clone https://github.com/brokenprison/Instrap
 ```
 ## RUN THIS TOOL
 
