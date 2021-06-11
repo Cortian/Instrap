@@ -23,5 +23,5 @@ git clone https://github.com/Cortian/Instrap
 ```bash
   bash start.sh
 ```
-#
-The script automaticaly Installs tool requirements and get it it ready for usage. 
+
+The script automaticaly Install's tool requirements and get it it ready for usage. 
